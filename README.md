@@ -9,3 +9,4 @@ The synthetic data was generated from the MHS dataset that was used in the afore
 ## This repository
 
 This repository contains firstly the code used for all experimentation. It should show all of the results from the testing. This is to ensure transparency. 
+It also includes the full report, so that you may see for yourself the detailed processes, strategies, and evaluations that took place. 
